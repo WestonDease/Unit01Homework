@@ -1,0 +1,7 @@
+The words and symbols in a program work like legos what make things happen. Theyre are a few types of peices that do different things to the program.
+A variable is like a small bag. It can store steveral different things but not at once. There are different types of bags that store diffent things like a shopping bag wouldnt hold
+the same thing as a backpack. Values are the different things that can be stored in variables. Like how a basketball could fit in a backpack but not a shoping bag, different values fit
+different variables better. Operators can do different things to variables to change their value. This is like a bagger loading different things into bags, changing their contents.
+Conditionals determine different things about the things in the variable. Its like a scale weighing the contents of each bag to compare them and the bagger desides what goes in what bag
+as a result. Loops are instructions to repeat oporations based on conditionals. Like when there is more things to be bagged, the bagger will keep bagging them. Functions are a part of objects.
+They are a set of instructions that operate whenever the function is told to. This is like how the bagger can get called to multiple checkouts to do its job bagging.

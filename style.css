@@ -1,0 +1,92 @@
+body {
+    height: 100vh;
+    padding: 0px;
+    background-image: url("assets/bckgrnd.png");
+    background-repeat: repeat;
+    
+}
+
+main {
+    display: grid;
+    height: 100%;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 0px;
+    color: white;
+}
+
+.box {
+    grid-row: span 1;
+    grid-column: span 1;
+    color: #ffffff;
+}
+
+#portrait {
+    border: solid;
+    border-width: 3px;
+    border-color: #2c5fa8;
+    border-radius: 100px;
+    width: 200px;
+}
+
+.portfolio {
+    width: 200px;
+    margin-left: 200px;
+}
+
+.upper {
+    color: #333333;
+}
+
+.lower {
+    background-color: rgba(150, 150, 150, .6);
+}
+
+img {
+    margin-left: 20px;
+}
+
+h1 {
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-size: 50px;
+    font-family: 'Montserrat';
+}
+
+h2 {
+    padding-left: 20px;
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+
+h3 {
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 30px;
+    font-family: 'Montserrat';
+    display: inline-block;
+}
+
+p {
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: 'Open Sans';       
+}
+
+footer {
+    margin-left: 20px;
+    font-size: 10px;
+}
+
+#topScreenIconBreak {
+    padding: 2px;
+}
+
+#iconTitleBreak {
+    padding: 30px;
+}
+
+#portaitLowerDivBreak {
+    padding-top: 10px;
+}
